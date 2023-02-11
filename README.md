@@ -1,0 +1,2 @@
+# named_entity_recognition_with_distilbert_transformer
+Built Named-Entity Recognition application using Transformers
