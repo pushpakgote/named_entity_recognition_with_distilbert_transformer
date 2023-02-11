@@ -1,6 +1,10 @@
 # Named-Entity Recognition
 Named Entity Recognition (NER) is a cutting-edge Natural Language Processing (NLP) technique that utilizes advanced machine learning algorithms to extract named entities such as persons, organizations, locations, and dates from unstructured text data. This process of information extraction helps to structure the text and extract meaningful insights, making it a crucial component in various NLP-powered applications such as sentiment analysis, document summarization, and question answering systems.
 
+<p align="center">
+<img src="https://www.shaip.com/wp-content/uploads/2022/02/Blog_Named-Entity-Recognition-%E2%80%93-The-Concept-Types-Applications.jpg" width="600" height="350">
+</p>
+
 We have built a Named-Entity Recognition application using Transformers. Here, we will use Distilbert model. 
 
 Distilbert aims to optimize the training by reducing the size of BERT and increase the speed of BERT — all while trying to retain as much performance as possible. Specifically, Distilbert is 40% smaller than the original BERT-base model, is 60% faster than it, and retains 97% of its functionality.
